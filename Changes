@@ -1,0 +1,9 @@
+Revision history for Perl extension WWW::UCC.
+
+0.02  Thu Oct 30 21:57:43 GMT 2003
+	- complete overhaul of POD and code (now with WWW::Mechanize).
+	- POD updates
+	- more tests
+
+0.01  Wed Nov 20 10:08:47 2002
+	- original version
